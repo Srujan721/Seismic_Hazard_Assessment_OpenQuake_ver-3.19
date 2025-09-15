@@ -1,7 +1,6 @@
 # Seismic_Hazard_Assessment_OpenQuake_ver-3.19
-# OpenQuake Seismic Hazard Assessment
 
-This repository contains the implementation of Probabilistic Seismic Hazard Analysis (PSHA) for a site in Uttarakhand, India (Seismic Zone V) using OpenQuake Engine v3.19.
+This repository contains the implementation of Probabilistic Seismic Hazard Analysis (PSHA) for a site in Uttarakhand, India (Seismic Zone V) using OpenQuake Engine v3.19. Full documenation on Openquake can be found at: https://github.com/gem/oq-engine
 
 ## 📋 Overview
 
