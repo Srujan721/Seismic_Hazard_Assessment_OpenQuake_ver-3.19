@@ -1,0 +1,1 @@
+# Seismic_Hazard_Assessment_OpenQuake_ver-3.19
